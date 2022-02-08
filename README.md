@@ -1,0 +1,2 @@
+# Fatty-Liver-Classification-and-Scaling-0-to-2-using-CNN
+These are the codes for my project called " Fatty Liver Classification and Scaling: from 0 to 2 using CNN." In this project, I've created my own neural network and trained it with the images of the kidneys with the fat level scaling from 0 to 2. With each given new data to the network, the programme indicates which level of fatness the liver is categorized. 
