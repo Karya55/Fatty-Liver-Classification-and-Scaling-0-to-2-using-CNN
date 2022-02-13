@@ -7,7 +7,7 @@ I have used Tensorflow Keras and ImageDataGenerator to build this neural network
 
 The more data we train for the network, the higher accurence rates we get!
 
-Pre-requisites
+Pre-requisites:
 The following are the pre-requisites for running the notebook on a local machine.
 
 -Python3,PyTorch,Matplotlib,Numpy
